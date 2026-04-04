@@ -52,34 +52,7 @@
 //     category: 'Chinese',
 //     imgUrl:
 //       'https://images.unsplash.com/photo-1604908176997-125f25cc500f?auto=format&fit=crop&w=1200&q=70',
-//   },
-//   {
-//     id: 7,
-//     name: 'French Fries',
-//     price: 110,
-//    // description: 'Crispy golden fries with seasoning.',
-//     category: 'Snacks',
-//     imgUrl:
-//       'https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?auto=format&fit=crop&w=1200&q=70',
-//   },
-//   {
-//     id: 8,
-//     name: 'Cold Coffee',
-//     price: 130,
-//     //description: 'Chilled coffee blended with milk and ice.',
-//     category: 'Beverages',
-//     imgUrl:
-//       'https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?auto=format&fit=crop&w=1200&q=70',
-//   },
-//   {
-//     id: 9,
-//     name: 'दाल तडका • Dal Tadka',
-//     price: 120,
-//    // description: 'Chilled coffee blended with milk and ice.',
-//     category: 'main course',
-//     imgUrl:
-//       'https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?auto=format&fit=crop&w=1200&q=70',
-//   },
+//   }
 // ]
 export const menuData = [
   // ================= ROTI =================
