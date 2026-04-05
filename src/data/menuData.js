@@ -91,9 +91,9 @@ export const menuData = [
   { id: 27, name: "Palak Paneer", price: 170, category: "Veg", imgUrl: "/images/menu/Palak Paneer.jpg" },
   { id: 28, name: "Lasooni Palak", price: 150, category: "Veg", imgUrl: "/images/menu/Lasooni Palak.jpg" },
   { id: 29, name: "Soyabean Masala", price: 140, category: "Veg", imgUrl: "/images/menu/Soyabean Masala.jpg" },
-  { id: 30, name: "Sev Bhaji", price: 120, category: "Veg", imgUrl: "/images/menu/Sev Bhaji.jpg" },
+  { id: 30, name: "Shev Bhaji", price: 120, category: "Veg", imgUrl: "/images/menu/Sev Bhaji.jpg" },
   { id: 31, name: "Chana Masala", price: 120, category: "Veg", imgUrl: "/images/menu/Chana Masala.jpg" },
-  { id: 32, name: "Sev Tamatar", price: 140, category: "Veg", imgUrl: "/images/menu/Sev Tamatar.jpg" },
+  { id: 32, name: "Shev Tamatar", price: 140, category: "Veg", imgUrl: "/images/menu/Sev Tamatar.jpg" },
   { id: 33, name: "Green Peas Masala", price: 140, category: "Veg", imgUrl: "/images/menu/Green Peas Masala.jpg" },
   { id: 34, name: "Besan", price: 130, category: "Veg", imgUrl: "/images/menu/Besan.jpg" },
   { id: 35, name: "Dal Fry", price: 100, category: "Veg", imgUrl: "/images/menu/Dal Fry.jpg" },
@@ -122,7 +122,7 @@ export const menuData = [
 
     // ================= NON VEG STARTER =================
   { id: 54, name: "Chicken Manchow Soup", price: 160, category: "Non-Veg Starter", imgUrl: "/images/menu/Chicken Manchow Soup.jpg" },
-  { id: 55, name: "Chicken Aani Soup", price: 150, category: "Non-Veg Starter", imgUrl: "/images/menu/Chicken Aani Soup.jpg" },
+  { id: 55, name: "Chicken Aalni Soup", price: 150, category: "Non-Veg Starter", imgUrl: "/images/menu/Chicken Aani Soup.jpg" },
   { id: 56, name: "Chicken Chilli (Full)", price: 280, category: "Non-Veg Starter", imgUrl: "/images/menu/Chicken Chilli (Full).jpg" },
   { id: 57, name: "Chicken Lollipop (Full)", price: 260, category: "Non-Veg Starter", imgUrl: "/images/menu/Chicken Lollipop (Full).jpg" },
   { id: 58, name: "Chicken 65", price: 280, category: "Non-Veg Starter", imgUrl: "/images/menu/Chicken 65.jpg" },

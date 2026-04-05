@@ -15,7 +15,7 @@ export default function App() {
         </Routes>
       </main>
       <footer className="container app-footer">
-        <span className="muted">Digital Menu Card • Frontend-only</span>
+        <span className="muted">Digital Menu Card • By Smart soft tech </span>
       </footer>
     </div>
   )

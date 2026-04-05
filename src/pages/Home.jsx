@@ -59,7 +59,7 @@ export default function Home() {
               className="input"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="Search by name (e.g. dosa, biryani)"
+              placeholder="Search by name (e.g. Roti, biryani)"
             />
           </div>
         </div>
