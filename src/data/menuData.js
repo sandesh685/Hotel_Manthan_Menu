@@ -138,7 +138,6 @@ export const menuData = [
   { id: 66, name: "Chicken Tandoor (Half)", price: 280, category: "Chicken", imgUrl: "/images/menu/Chicken Tandoor (Half).jpg" },
   { id: 67, name: "Chicken Tandoor (Full)", price: 450, category: "Chicken", imgUrl: "/images/menu/Chicken Tandoor (Full).jpg" },
   { id: 68, name: "Chicken Biryani Half", price: 150, category: "Biryani", imgUrl: "/images/menu/Chicken Biryani Half.jpg" },
-  { id: 68, name: "Chicken Biryani Half", price: 150, category: "Biryani", imgUrl: "/images/menu/Chicken Biryani Half.jpg" },
   { id: 69, name: "Chicken Biryani Full", price: 240, category: "Biryani", imgUrl: "/images/menu/Chicken Biryani Full.jpg" },
   { id: 70, name: "Mutton Biryani Half", price: 200, category: "Biryani", imgUrl: "/images/menu/Mutton Biryani Half.jpg" },
   { id: 71, name: "Mutton Biryani Full", price: 350, category: "Biryani", imgUrl: "/images/menu/Mutton Biryani Full.jpg" },
