@@ -132,7 +132,7 @@ export const menuData = [
   { id: 62, name: "Mutton Kharda Fry", price: 260, category: "Non-Veg Starter", imgUrl: "/images/menu/Mutton Fry.jpg" },
   { id: 63, name: "Fish Fry", price: 160, category: "Non-Veg Starter", imgUrl: "/images/menu/Fish Fry.jpg" },
   { id: 64, name: "Fish Tawa Fry", price: 200, category: "Non-Veg Starter", imgUrl: "/images/menu/Fish Tawa Fry.jpg" },
-  { id: 65, name: "Soup Vati", price: 40, category: "Non-Veg Starter", imgUrl: "/images/menu/Soup Vati.jpg" },
+  { id: 65, name: "Aalni Soup Vati", price: 60, category: "Non-Veg Starter", imgUrl: "/images/menu/Soup Vati.jpg" },
 
   // ================= BIRYANI SPECIAL =================
   { id: 66, name: "Chicken Tandoor (Half)", price: 280, category: "Chicken", imgUrl: "/images/menu/Chicken Tandoor (Half).jpg" },
